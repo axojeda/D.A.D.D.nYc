@@ -1,0 +1,24 @@
+{
+    "resources": [
+      {
+          "id": 1,
+          "title":"Useful Tips",
+          "description":"Sometimes people ask me for tips about building a dating app profile, I'm not a pro, but few things that helped me was underestanding a bit men mentality and myself and what I want. I try to reflect that as much as I can and then I look for people who reflect similar things. "
+      },
+      {
+        "id": 2,
+        "title":"Boundaries",
+        "description":"Understandig what is acceptable for you is extremely important, it doesn't matter if is in a simple conversation via text or in a date. If something doesn't feels or sit right witho then it doesnt! I always speak up, and if the other person doesn't understand...blocking is free!"
+    },
+    {
+        "id": 3,
+        "title":"Expectations",
+        "description":"This actually the hardest part for me, I generally have very high expectations about what I want on a man. When I was younger I used to tell myself to lower my expectations, but this days I refuse to do that. I'm very happy sigle, so if someone is going to come into my life, is to add to my happiness, not to take it away."
+    },
+    {
+        "id": 4,
+        "title":"Help!",
+        "description":"Do not hesitate to ask for help if you feel lost, depressed or even in danger. Call a friend, find professional help, or go to the city police or social organizations for women. Here is some useful links:"
+    }
+    ]
+    }

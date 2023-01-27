@@ -1,0 +1,54 @@
+{
+  "redFlags": [
+    {
+      "id": 1,
+      "title": "The I'm so busy dude",
+      "description": "I get it, ok? This is NYC, we're all very busy, work is cracy, competition is insane, we're always hustlin. But the truth is that he made time at first, if he wants he'll make time, sending a text or a minute call a day is not that hard."
+    },
+    {
+      "id": 2,
+      "title": "The rollercoster",
+      "description": "Consistency is the key, do what you preach and preach what you do."
+    },
+    {
+      "id": 3,
+      "title": "The eternal bachelor",
+      "description": "You're not your early 20's, but your ongest relationship was less than a year. "
+    },
+    {
+      "id": 4,
+      "title": "Mr. let's meet at your/mine apt only",
+      "description": "Unless you're cool with just that type of relationship, always always a red flag."
+    },
+    {
+      "id": 5,
+      "title": "The has more than one baby mom",
+      "description": "No need for more info."
+    },
+    {
+      "id": 6,
+      "title": "The RedPill dude",
+      "description": "Follows, quotes or suport the RedPill blogs, podcasts or influencers (like Andrew Tate)."
+    },
+    {
+      "id": 7,
+      "title": "The toxic",
+      "description": "Possesive, controling, dramatic, jealous..."
+    },
+    {
+      "id": 8,
+      "title": "The secretive",
+      "description": "Do you have a gut feeling? Probnably he is no being trnsparent. Hides his phone screen when you're around, hides information from you."
+    },
+    {
+      "id": 9,
+      "title": "The love Bomber",
+      "description": "Nobody falls in love that fast! Beware of the nercisists."
+    },
+    {
+      "id": 10,
+      "title": "The ladies man",
+      "description": "Womanizer, always has new girls popping out of nowhere."
+    }
+  ]
+}

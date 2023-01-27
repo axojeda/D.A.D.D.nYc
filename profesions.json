@@ -1,0 +1,52 @@
+{
+    "profesions": [
+      {
+          "id": 1,
+          "number":"01",
+          "title":"The Fin Broh",
+          "description":"Works in the Financial District or in midtown, can be found in afterwork Happy Hours around the office. Good income, crazy hours. Too busy to reply texts and flaky. Generally dating multiple women."
+      },
+     {
+          "id": 2,
+          "number":"02",
+          "title":"The Tech Guy",
+          "description":"Nerdy, smart, introvert. Gamers, programers, crypto brohs. To be found in the city or in hipster-ish areas, fancy high rised buildings. General lack of understanding of women, bad communicators."
+      },
+      {
+          "id": 3,
+          "number":"03",
+          "title":"The artist",
+          "description":"Actors, designers, painters, dancers, etc. Fun to hang around if you don't mind paying for your own meals and maybe his. Living in the hipster areas of any borough, usually with roommates. "
+      },
+      {
+          "id": 4,
+          "number":"04",
+          "title":"The hospitality guy",
+          "description":"Promoters, bartenders, waiters, managers, chefs, etc. Their schedule will never match yours unless you work in the same feild. Will flirt with anyone. They are spred out around the city."
+      },
+      {
+          "id": 5,
+          "number":"05",
+          "title":"The Lawyer",
+          "description":"Works crazy hours and is always stressed out. You will see them drinking and raving at the club or Happy Hour. Generally inconsistency between what they say and what they do."
+      },
+      {
+          "id": 6,
+          "number":"06",
+          "title":"The Hustler",
+          "description":"Has multiple jobs and side gigs. Always running around, generally cheap and live too far from where you live. Found in your local bar having a beer, or in you local bodega corner"
+      },
+      {
+          "id": 7,
+          "number":"07",
+          "title":"The Business Owner",
+          "description":"Very business oriented, always looking for the next best idea. Works many hours, if succesfull ou'll find it in fancy restaurants and clubs. Seen carring a suitcase on his way to the airport."
+      },
+      {
+          "id": 8,
+          "number":"08",
+          "title":"The unkown",
+          "description":"He makes money but will never tell you what he does when you ask him. Just make sure you don't know too much in case the police stops you. Seen at night clubs and sporting events."
+        }
+        ]
+  }

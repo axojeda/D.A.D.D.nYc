@@ -1,20 +1,16 @@
-import './App.css';
-import React from 'react';
-import Header from './components/Header';
-import About from './components/About'
-import DatingApps from './components/DatingApps'
-import MenTypes from './components/MenTypes'
-import RedFlags from './components/RedFlags'
-import Resources from './components/Resources'
+import React from 'react'
+import About from './About'
+import DatingApps from './DatingApps'
+import MenTypes from './MenTypes'
+import RedFlags from './RedFlags'
+import Resources from './Resources'
 import { BrowserRouter as Router, Routes, Route } from "react-router-dom"
 
+function ContainerPage() {
 
-
-function App() {
-  return (
-    <div className="App">
-      <Router >
-        <Header />
+    return (
+        <div className='ContainerPage'>
+            <Router >
                 <Routes>
                     <Route path="/About" element={<About />} />
                     <Route path="/DatingApps" element={<DatingApps />} />
@@ -23,8 +19,8 @@ function App() {
                     <Route path="/Resources" element={<Resources />} />
                 </Routes>
             </Router>
-    </div>
-  );
+        </div>
+    )
 }
 
-export default App;
+export default ContainerPage

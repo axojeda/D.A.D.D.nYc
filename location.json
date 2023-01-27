@@ -1,0 +1,53 @@
+{
+    "location": [
+      {
+          "id": 1,
+          "number":"01",
+          "title":"Manhattan",
+          "description":"They work and live in the city, and usually will refuse to leave it. Generally they have good jobs so they can afford the crazy rent prices. They know all the nice restaurants, hipe bars and cool gyms."
+      },
+     {
+          "id": 2,
+          "number":"02",
+          "title":"Upper Manhattan",
+          "description":"Harlem and Upper Manhattan deserve their own section, while still in the city, you'll find a more dicerse and cultural crowd, fashionable and yet chill men."
+          
+      },
+      {
+          "id": 3,
+          "number":"03",
+          "title":"Queens",
+          "description":"Queens is huge, each section is so different and diverse you'll need to explore separatelly depending what you're looking for. My advice: stick to the areas closer to the city."
+      },
+      {
+          "id": 4,
+          "number":"04",
+          "title":"Bronx",
+          "description":"Also depends where you go, big difference between sections. If you're looking for a family guy maybe check Riverside or North Bronx. South Bronx is changing and getting more young professionls this days."
+      },
+      {
+          "id": 5,
+          "number":"05",
+          "title":"Brooklyn",
+          "description":"Hipsters, artist, hospitality guys and the ocasional office guy. Vegans multiply in here. Like the city boys they usually refuse to leave BK. You'll enjoy a lot of outdoor activities in summer, and organic wine in winter."
+      },
+      {
+          "id": 6,
+          "number":"06",
+          "title":"New Jersey",
+          "description":"Technically not NYC, but many of them work in the city. Some of them try to pay less rent or just try to be away of the craziness. Personally I hate to commute to NJ, but great if you don't mind!"
+      },
+      {
+          "id": 7,
+          "number":"07",
+          "title":"Staten Island",
+          "description":"Who lives in Staten Island?"
+      },
+      {
+          "id": 8,
+          "number":"08",
+          "title":"Upstate and Long Island",
+          "description":"The I hate the City type of guys. Nature lovers, will compain about how crewded the city is and call you crazy for paying what you pay. Will scream if they have to take the train."
+        }
+        ]
+  }

@@ -1,0 +1,53 @@
+{
+    "background": [
+      {
+          "id": 1,
+          "number":"01",
+          "title":"African Descent",
+          "description":"We have to distinct between americans, africans and caaribbeans. My experence was only with the last two. Africans tend to be more family oriented and tradicional, but that doesnt stop them to have multiple women and cheat. Caribbeans are algays fun to party but also lie too much."
+      },
+     {
+          "id": 2,
+          "number":"02",
+          "title":"Caucasian",
+          "description":"My experience is mostly with Europeans, the few first dates I had with Americans left me with a bad aftertaste of entitlement"
+          
+      },
+      {
+          "id": 3,
+          "number":"03",
+          "title":"Hispanic/Latino",
+          "description":"They are so smooth and so good at lying that not only you believe his lies, they belive also do. Great dancers tho!"
+      },
+      {
+          "id": 4,
+          "number":"04",
+          "title":"East and South Asian",
+          "description":"Sweet and respectful, but some of them have two personalities when they have few drinks. They are passionate but olso very inconsistent, will gosth with no remorse"
+      },
+      {
+          "id": 5,
+          "number":"05",
+          "title":"Arab",
+          "description":"I have no experience here, feel free to drop your review."
+      },
+      {
+          "id": 6,
+          "number":"06",
+          "title":"Indian",
+          "description":"Also no experience here, drop your comments."
+      },
+      {
+          "id": 7,
+          "number":"07",
+          "title":"Pacific Islander, Native and others",
+          "description":"Drop your comments, no idea."
+      },
+      {
+          "id": 8,
+          "number":"08",
+          "title":"Mixed",
+          "description":"As a mixed kid myself...they are just confuse. They can fall in any red flag of any of their cultures."
+        }
+        ]
+  }
